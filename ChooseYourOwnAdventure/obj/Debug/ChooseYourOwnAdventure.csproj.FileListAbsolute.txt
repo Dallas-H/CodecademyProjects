@@ -1,0 +1,7 @@
+E:\WORKSPACE\VisualStudios-workspace\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.exe.config
+E:\WORKSPACE\VisualStudios-workspace\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.exe
+E:\WORKSPACE\VisualStudios-workspace\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.pdb
+E:\WORKSPACE\VisualStudios-workspace\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.csprojAssemblyReference.cache
+E:\WORKSPACE\VisualStudios-workspace\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.csproj.CoreCompileInputs.cache
+E:\WORKSPACE\VisualStudios-workspace\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.exe
+E:\WORKSPACE\VisualStudios-workspace\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.pdb
