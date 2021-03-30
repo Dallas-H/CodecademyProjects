@@ -1,0 +1,7 @@
+E:\WORKSPACE\VisualStudios-workspace\TesingArea\TestingArea\bin\Debug\TestingArea.exe.config
+E:\WORKSPACE\VisualStudios-workspace\TesingArea\TestingArea\bin\Debug\TestingArea.exe
+E:\WORKSPACE\VisualStudios-workspace\TesingArea\TestingArea\bin\Debug\TestingArea.pdb
+E:\WORKSPACE\VisualStudios-workspace\TesingArea\TestingArea\obj\Debug\TestingArea.csprojAssemblyReference.cache
+E:\WORKSPACE\VisualStudios-workspace\TesingArea\TestingArea\obj\Debug\TestingArea.csproj.CoreCompileInputs.cache
+E:\WORKSPACE\VisualStudios-workspace\TesingArea\TestingArea\obj\Debug\TestingArea.exe
+E:\WORKSPACE\VisualStudios-workspace\TesingArea\TestingArea\obj\Debug\TestingArea.pdb
