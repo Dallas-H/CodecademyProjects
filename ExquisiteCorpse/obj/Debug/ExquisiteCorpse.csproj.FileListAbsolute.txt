@@ -1,0 +1,7 @@
+E:\WORKSPACE\VisualStudios-workspace\ExquisiteCorpse\bin\Debug\ExquisiteCorpse.exe.config
+E:\WORKSPACE\VisualStudios-workspace\ExquisiteCorpse\bin\Debug\ExquisiteCorpse.exe
+E:\WORKSPACE\VisualStudios-workspace\ExquisiteCorpse\bin\Debug\ExquisiteCorpse.pdb
+E:\WORKSPACE\VisualStudios-workspace\ExquisiteCorpse\obj\Debug\ExquisiteCorpse.csprojAssemblyReference.cache
+E:\WORKSPACE\VisualStudios-workspace\ExquisiteCorpse\obj\Debug\ExquisiteCorpse.csproj.CoreCompileInputs.cache
+E:\WORKSPACE\VisualStudios-workspace\ExquisiteCorpse\obj\Debug\ExquisiteCorpse.exe
+E:\WORKSPACE\VisualStudios-workspace\ExquisiteCorpse\obj\Debug\ExquisiteCorpse.pdb
