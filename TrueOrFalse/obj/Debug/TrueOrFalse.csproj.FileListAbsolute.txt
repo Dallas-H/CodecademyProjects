@@ -1,0 +1,7 @@
+E:\WORKSPACE\VisualStudios-workspace\TrueOrFalse\bin\Debug\TrueOrFalse.exe.config
+E:\WORKSPACE\VisualStudios-workspace\TrueOrFalse\bin\Debug\TrueOrFalse.exe
+E:\WORKSPACE\VisualStudios-workspace\TrueOrFalse\bin\Debug\TrueOrFalse.pdb
+E:\WORKSPACE\VisualStudios-workspace\TrueOrFalse\obj\Debug\TrueOrFalse.csprojAssemblyReference.cache
+E:\WORKSPACE\VisualStudios-workspace\TrueOrFalse\obj\Debug\TrueOrFalse.csproj.CoreCompileInputs.cache
+E:\WORKSPACE\VisualStudios-workspace\TrueOrFalse\obj\Debug\TrueOrFalse.exe
+E:\WORKSPACE\VisualStudios-workspace\TrueOrFalse\obj\Debug\TrueOrFalse.pdb
