@@ -1,0 +1,7 @@
+E:\WORKSPACE\VisualStudios-workspace\DatingProfile\bin\Debug\DatingProfile.exe.config
+E:\WORKSPACE\VisualStudios-workspace\DatingProfile\bin\Debug\DatingProfile.exe
+E:\WORKSPACE\VisualStudios-workspace\DatingProfile\bin\Debug\DatingProfile.pdb
+E:\WORKSPACE\VisualStudios-workspace\DatingProfile\obj\Debug\DatingProfile.csprojAssemblyReference.cache
+E:\WORKSPACE\VisualStudios-workspace\DatingProfile\obj\Debug\DatingProfile.csproj.CoreCompileInputs.cache
+E:\WORKSPACE\VisualStudios-workspace\DatingProfile\obj\Debug\DatingProfile.exe
+E:\WORKSPACE\VisualStudios-workspace\DatingProfile\obj\Debug\DatingProfile.pdb
