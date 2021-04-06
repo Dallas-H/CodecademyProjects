@@ -1,0 +1,7 @@
+E:\WORKSPACE\VisualStudios-workspace\SavingInterface\bin\Debug\SavingInterface.exe.config
+E:\WORKSPACE\VisualStudios-workspace\SavingInterface\bin\Debug\SavingInterface.exe
+E:\WORKSPACE\VisualStudios-workspace\SavingInterface\bin\Debug\SavingInterface.pdb
+E:\WORKSPACE\VisualStudios-workspace\SavingInterface\obj\Debug\SavingInterface.csprojAssemblyReference.cache
+E:\WORKSPACE\VisualStudios-workspace\SavingInterface\obj\Debug\SavingInterface.csproj.CoreCompileInputs.cache
+E:\WORKSPACE\VisualStudios-workspace\SavingInterface\obj\Debug\SavingInterface.exe
+E:\WORKSPACE\VisualStudios-workspace\SavingInterface\obj\Debug\SavingInterface.pdb
